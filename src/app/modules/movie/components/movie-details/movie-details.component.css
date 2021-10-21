@@ -1,0 +1,29 @@
+.backDrop {
+  width: 1198px;
+  height: 798px;
+  border-radius: 20px;
+  position: absolute;
+  z-index: 1;
+}
+.movieTitle {
+  z-index: 2;
+}
+p {
+  color: lightgrey;
+}
+.movieDetails {
+  display: flex;
+  width: 1200px;
+  height: 800px;
+  border: 1px solid white;
+  color: white;
+  border-radius: 20px;
+}
+.movieDetailsContent {
+  margin-left: 20px;
+}
+.imgBackDrop {
+  height: 300px;
+  width: 220px;
+  border-radius: 20px;
+}

@@ -1,0 +1,4 @@
+<div class="moviesByPage movies">
+  <app-movie *ngFor="let movie of movies" [movie]="movie"></app-movie>
+  <app-pagination (lift)="catchPage($event)"></app-pagination>
+</div>

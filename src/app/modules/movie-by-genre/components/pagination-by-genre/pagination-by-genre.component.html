@@ -1,0 +1,8 @@
+<ngb-pagination
+  [(page)]="page"
+  [pageSize]="20"
+  [collectionSize]="10000"
+  [boundaryLinks]="true"
+  [maxSize]="10"
+  (pageChange)="onSinglePageChanged($event)"
+></ngb-pagination>

@@ -1,0 +1,7 @@
+.movies {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  border-radius: 20px;
+  background: #0E1621;
+}

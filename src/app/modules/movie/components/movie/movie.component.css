@@ -1,0 +1,10 @@
+.movie {
+  margin: 30px 20px;
+}
+
+.movie:active {
+  border: 2px solid black;
+  border-radius: 20px;
+  margin: 27px 18px;
+
+}

@@ -1,0 +1,19 @@
+.leftBar {
+  border-radius: 20px;
+  width: 300px;
+  margin: 0 30px 0 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 10px;
+  row-gap: 10px;
+  background: #0E1621;
+}
+.leftBar button {
+  background: #0E1621;
+  border-radius: 20px;
+  color: white;
+  height: 40px;
+}
+.leftBar button:active {
+  background: #1F2936;
+}

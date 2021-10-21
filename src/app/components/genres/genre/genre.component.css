@@ -1,0 +1,11 @@
+.genre button {
+  background: #0E1621;
+  border-radius: 20px;
+  color: white;
+  height: 40px;
+  width: 200px;
+  margin-bottom: 10px;
+}
+.genre button:active {
+  background: #1F2936;
+}
